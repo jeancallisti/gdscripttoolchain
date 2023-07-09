@@ -2,8 +2,10 @@
 A home for advanced tools involving Godot's GDScript: Syntax analyzers, plugins, etc.
 
 # Current state
-This repo is still in the "early research" phase. It does not host any code yet. **If you are a developer proficient with syntactic analysis, please feel free to contibute any project you might like to this repo.**
+This repo is still in the "early research" phase. It does not host any code yet. **If you are a developer proficient with syntactic analysis, please feel free to contribute any project you might like to this repo.**
 
+# License
+The license is currently MIT but techically there's nothing to license yet. If that license conflicts with other licenses then we can change it as it's still early.
 
 ## What is GDScript?
 
