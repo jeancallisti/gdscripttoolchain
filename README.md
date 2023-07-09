@@ -14,7 +14,7 @@ No matter what sort of manipulation you intend on implementing around GDScript, 
 - The native "IDE" (code editor) and compiler/interpreter/debugger embedded directly in the Godot Editor. That code editor is relatively poor in terms of features and ergonomy.
 - Some of the third-party code bases out there, which are not consistent with one another (in terms of languages, flows, etc.), and have dubious support (there was a boom circa 2020 and then not much happened)
 
-You can use the abilities of C# (and all its ecosystem) *only* if your project is of the "Godot Mono" kind. If you intend to biuld on top of existing plugins written entirely in GDScript then you are stuck with GDScript.
+You can use the abilities of C# (and all its ecosystem) *only* if your project is of the "Godot Mono" kind. If you intend to build on top of existing plugins written entirely in GDScript then you are stuck with GDScript.
 
 ## Some existing resources
 
